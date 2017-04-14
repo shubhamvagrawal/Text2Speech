@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\Desktop\T2S\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0dadcf3468085af8dd006fc15a577376b9b4ea9a">
+        <dex dex="C:\Users\ASUS\Desktop\T2S\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_22ad09ae7fdfed2ef11415065f3dd5cfb4dffdc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ASUS\Desktop\T2S\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\ASUS\Desktop\T2S\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2d94b22fa7d155d32b1189a3138f1f9e4d33f3de\classes.dex" />
+    </item>
+
+</items>
